@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.tabs {
+  background-color: grey;
+  overflow: hidden;
+}
+
+.tab {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.tab:hover {
+  background-color: darkgrey;
+}
+
+.content {
+  padding: 20px;
+}
+
+/* Add more styles as needed */
